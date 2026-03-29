@@ -12,9 +12,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Overview
 This project is a solution to the Blog Preview Card challenge from Frontend Mentor. The goal was to build a visually accurate and responsive card component using HTML and CSS, while improving layout, styling, and design skills.
 ### Screenshot
-![Blog Preview Card](./Screenshot/Blog-Preview-Card-Screenshot.png)
+![Blog Preview Card](./Screenshort/Blog-Preview-Card-Screenshort.png)
 ### Links
-Live site - 
+Live site - https://soumiligiri.github.io/Blog-Preview-Card/
 
 ## My process
 ### Built with
